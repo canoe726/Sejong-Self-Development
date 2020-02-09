@@ -12,10 +12,9 @@
 
 - 홈페이지 링크 : http://canoe726.cafe24.com/SejongSelfDevelopment/index.php
 
-### Database
-(로그인 시 사용)
+### Database (로그인 시 사용)
 학생 목록
-ID            PW
+   ID       PW
 - 18000001  1234
 - 18000002  1234
 - 18000003  1234
